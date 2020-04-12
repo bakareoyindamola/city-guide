@@ -1,0 +1,87 @@
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+
+@media (min-width: 770px) {
+	
+	body {
+		padding-top: 68px;
+	}
+
+	.main-header {
+		position: fixed;
+		background-color: #fff;
+		width: 100%;
+		top: 0;
+		z-index: 1000;
+	}
+
+	.group::after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.name {
+		float: left;
+	}
+
+	.main-nav a {
+		padding: 10px 15px;
+		margin-top: 5px;
+	}
+	.main-nav {
+		float: right;
+	}
+
+	.main-nav li {
+		display: inline-block;
+		margin-left: 15px;
+	}
+
+	.banner {
+		font-family: "Maiandra GD Regular", sans-serifs;
+		letter-spacing: 0.1em;
+	}
+
+	.tagline {
+		font-size: 1.3em;
+	}
+
+	.container {
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	.secondary,
+	.primary  {
+		width: 50%;
+	}
+
+	.col {
+		float: left;
+	}
+
+}
+
+
+
+@media (min-width: 1000px) {
+
+	.container {
+		width: 80%;
+		max-width: 1150px;
+	}
+
+	.secondary,
+	.tertiary {
+		width: 30%;
+	}
+
+	.primary {
+		width: 40%;
+	}
+
+}

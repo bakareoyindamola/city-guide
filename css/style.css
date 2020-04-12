@@ -1,0 +1,252 @@
+
+* {
+	box-sizing: border-box;
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body {
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.6;
+	color: #3a3a3a;
+}
+
+p {
+	font-size: .95em;
+	margin-bottom: 1.5em;
+}
+
+h2,
+h3,
+a {
+	color: #093a58;
+}
+
+h2,
+h3 {
+	margin-top: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+li a:hover {
+	color: blue;
+}
+
+.main-header {
+	padding: 8px 0;
+}
+
+.name a {
+	padding: 10px 15px;
+	display: block;
+}
+
+
+.main-nav a {
+	font-size: .95em;
+	color: turquoise;
+	display: block;
+	text-transform: uppercase;
+	padding: 9px 15px;
+	margin-top: 2px;
+}
+
+.header-image {
+	width: 190px;
+}
+
+.feat-img {
+	width: 100%;
+}
+
+.name {
+	font-size: 1.25em;
+	margin: 0;
+}
+
+.main-header,
+.banner,
+.main-footer {
+	text-align: center;
+}
+
+.banner {
+	color: white;
+	background-color: darkturquoise;
+	padding: 50px 0;
+	margin-bottom: 50px;
+}
+
+.headline {
+	margin-bottom: 0;
+}
+
+
+.col {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.main-footer {
+	background-color: lightblue;
+	padding: 32px 0;
+	margin: 30px 0 0;
+	font-family: "Maiandra GD Regular", sans-serifs;
+}
+
+figure {
+	margin: 0;
+	line-height: 0;
+	position: relative;
+}
+
+figcaption {
+	background: rgba(19,43,102, .85);
+	color: white;
+	line-height: 1.5;
+	padding: 1em;
+	font-size: .9em;
+	position: absolute;
+	bottom: 0;
+	width: 100%
+}
+
+figure h4 {
+	margin: 0;
+	margin-bottom: .4em;
+}
+
+.location-img {
+	width: 30px;
+	position: absolute;
+	top: -10px;
+	right: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
